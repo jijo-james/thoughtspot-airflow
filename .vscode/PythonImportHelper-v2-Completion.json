@@ -1,0 +1,431 @@
+[
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "Mock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "Mock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_transform_stock",
+        "importPath": "tasks.fetch_transform_stock",
+        "description": "tasks.fetch_transform_stock",
+        "isExtraImport": true,
+        "detail": "tasks.fetch_transform_stock",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_transform_stock",
+        "importPath": "tasks.fetch_transform_stock",
+        "description": "tasks.fetch_transform_stock",
+        "isExtraImport": true,
+        "detail": "tasks.fetch_transform_stock",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_transform_weather",
+        "importPath": "tasks.fetch_transform_weather",
+        "description": "tasks.fetch_transform_weather",
+        "isExtraImport": true,
+        "detail": "tasks.fetch_transform_weather",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_transform_weather",
+        "importPath": "tasks.fetch_transform_weather",
+        "description": "tasks.fetch_transform_weather",
+        "isExtraImport": true,
+        "detail": "tasks.fetch_transform_weather",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pendulum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pendulum",
+        "description": "pendulum",
+        "detail": "pendulum",
+        "documentation": {}
+    },
+    {
+        "label": "dag",
+        "importPath": "airflow.decorators",
+        "description": "airflow.decorators",
+        "isExtraImport": true,
+        "detail": "airflow.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "task",
+        "importPath": "airflow.decorators",
+        "description": "airflow.decorators",
+        "isExtraImport": true,
+        "detail": "airflow.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "load_stock_data",
+        "importPath": "tasks.load_stock_data",
+        "description": "tasks.load_stock_data",
+        "isExtraImport": true,
+        "detail": "tasks.load_stock_data",
+        "documentation": {}
+    },
+    {
+        "label": "load_weather_data",
+        "importPath": "tasks.load_weather_data",
+        "description": "tasks.load_weather_data",
+        "isExtraImport": true,
+        "detail": "tasks.load_weather_data",
+        "documentation": {}
+    },
+    {
+        "label": "create_joined_table",
+        "importPath": "tasks.create_joined_table",
+        "description": "tasks.create_joined_table",
+        "isExtraImport": true,
+        "detail": "tasks.create_joined_table",
+        "documentation": {}
+    },
+    {
+        "label": "create_joined_table",
+        "kind": 2,
+        "importPath": "dags.tasks.create_joined_table",
+        "description": "dags.tasks.create_joined_table",
+        "peekOfCode": "def create_joined_table(db_name: str) -> None:\n    \"\"\"\n    Create a joined table from stock_data and weather_data in the SQLite DB.\n    \"\"\"\n    conn = sqlite3.connect(db_name)\n    cursor = conn.cursor()\n    try:\n        cursor.execute(\"DROP TABLE IF EXISTS joined_data;\")\n        join_query = \"\"\"\n            CREATE TABLE joined_data AS",
+        "detail": "dags.tasks.create_joined_table",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_transform_stock",
+        "kind": 2,
+        "importPath": "dags.tasks.fetch_transform_stock",
+        "description": "dags.tasks.fetch_transform_stock",
+        "peekOfCode": "def fetch_transform_stock(\n    stock_base_url: str,\n    stock_api_key: str,\n    function: str,\n    symbol: str,\n    outputsize: str,\n    days_to_keep: int = 7,\n) -> Dict[str, Any]:\n    \"\"\"\n    Fetch stock data from Alpha Vantage and transform into a list of dictionaries.",
+        "detail": "dags.tasks.fetch_transform_stock",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_transform_weather",
+        "kind": 2,
+        "importPath": "dags.tasks.fetch_transform_weather",
+        "description": "dags.tasks.fetch_transform_weather",
+        "peekOfCode": "def fetch_transform_weather(\n    weather_base_url: str, weather_api_key: str, location: str, days: int = 7\n) -> Dict[str, Any]:\n    \"\"\"\n    Fetch weather data from WeatherAPI for the past `days` days, transform, and return records.\n    \"\"\"\n    end_date = datetime.today()\n    start_date = end_date - timedelta(days=days)\n    records = []\n    for i in range(days):",
+        "detail": "dags.tasks.fetch_transform_weather",
+        "documentation": {}
+    },
+    {
+        "label": "load_stock_data",
+        "kind": 2,
+        "importPath": "dags.tasks.load_stock_data",
+        "description": "dags.tasks.load_stock_data",
+        "peekOfCode": "def load_stock_data(db_name: str, stock_records: Dict[str, Any]) -> None:\n    \"\"\"\n    Load stock data into SQLite (table: stock_data).\n    \"\"\"\n    records = stock_records.get(\"records\", [])\n    if not records:\n        print(\"No stock records to load.\")\n        return\n    df = pd.DataFrame(records)\n    conn = sqlite3.connect(db_name)",
+        "detail": "dags.tasks.load_stock_data",
+        "documentation": {}
+    },
+    {
+        "label": "load_weather_data",
+        "kind": 2,
+        "importPath": "dags.tasks.load_weather_data",
+        "description": "dags.tasks.load_weather_data",
+        "peekOfCode": "def load_weather_data(db_name: str, weather_records: Dict[str, Any]) -> None:\n    \"\"\"\n    Load weather data into SQLite (table: weather_data).\n    \"\"\"\n    records = weather_records.get(\"records\", [])\n    if not records:\n        print(\"No weather records to load.\")\n        return\n    df = pd.DataFrame(records)\n    conn = sqlite3.connect(db_name)",
+        "detail": "dags.tasks.load_weather_data",
+        "documentation": {}
+    },
+    {
+        "label": "TestFetchTransformStock",
+        "kind": 6,
+        "importPath": "dags.tests.test_fetch_transform_stock",
+        "description": "dags.tests.test_fetch_transform_stock",
+        "peekOfCode": "class TestFetchTransformStock(unittest.TestCase):\n    def setUp(self):\n        self.stock_base_url = \"https://www.alphavantage.co/query\"\n        self.stock_api_key = \"demo\"\n        self.function = \"TIME_SERIES_DAILY\"\n        self.symbol = \"IBM\"\n        self.outputsize = \"compact\"\n        self.days_to_keep = 7\n        self.valid_stock_json = {\n            \"Meta Data\": {",
+        "detail": "dags.tests.test_fetch_transform_stock",
+        "documentation": {}
+    },
+    {
+        "label": "TestFetchTransformWeather",
+        "kind": 6,
+        "importPath": "dags.tests.test_fetch_transform_weather",
+        "description": "dags.tests.test_fetch_transform_weather",
+        "peekOfCode": "class TestFetchTransformWeather(unittest.TestCase):\n    def setUp(self):\n        self.weather_base_url = \"http://api.weatherapi.com/v1/history.json\"\n        self.weather_api_key = \"demo\"\n        self.location = \"New York\"\n        self.days = 7\n        # Sample valid weather JSON response\n        self.valid_weather_json = {\n            \"forecast\": {\n                \"forecastday\": [",
+        "detail": "dags.tests.test_fetch_transform_weather",
+        "documentation": {}
+    },
+    {
+        "label": "Constants",
+        "kind": 6,
+        "importPath": "dags.config",
+        "description": "dags.config",
+        "peekOfCode": "class Constants(BaseModel):\n    STOCK_BASE_URL: str\n    FUNCTION: str\n    SYMBOL: str\n    OUTPUTSIZE: str\n    WEATHER_BASE_URL: str\n    LOCATION: str\n    STOCK_API_KEY: str\n    WEATHER_API_KEY: str\n    DB_NAME: str",
+        "detail": "dags.config",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "dags.config",
+        "description": "dags.config",
+        "peekOfCode": "def load_config() -> Constants:\n    # Adjust the path to your local config.json\n    dir_path = os.path.dirname(os.path.realpath(__file__))\n    file_path = f\"{dir_path}/config.json\"\n    with open(file_path, \"r\", encoding=\"utf-8\") as f:\n        config = json.load(f)\n    return Constants(**config)",
+        "detail": "dags.config",
+        "documentation": {}
+    },
+    {
+        "label": "data_pipeline_dag",
+        "kind": 2,
+        "importPath": "dags.data_pipeline_dag",
+        "description": "dags.data_pipeline_dag",
+        "peekOfCode": "def data_pipeline_dag():\n    \"\"\"\n    DAG that:\n    1. Fetches stock data from Alpha Vantage and weather data from WeatherAPI\n    2. Transforms data using Pandas\n    3. Loads data into SQLite (tables: stock_data, weather_data)\n    4. Creates a joined_data table in SQLite combining both data sources\n    \"\"\"\n    @task(task_id=\"fetch_transform_stock\", do_xcom_push=True)\n    def fetch_transform_stock_task():",
+        "detail": "dags.data_pipeline_dag",
+        "documentation": {}
+    },
+    {
+        "label": "default_args",
+        "kind": 5,
+        "importPath": "dags.data_pipeline_dag",
+        "description": "dags.data_pipeline_dag",
+        "peekOfCode": "default_args = {\"retries\": 1, \"retry_delay\": timedelta(seconds=30)}\nconf = load_config()\n@dag(\n    dag_id=f\"{os.path.basename(Path(__file__).parent)}_data_pipeline_dag\",\n    description=\"Fetches stock & weather data, transforms, and loads to SQLite\",\n    schedule=None,  # or use a CRON or preset like '@daily'\n    max_active_runs=1,\n    start_date=pendulum.today(\"UTC\").add(days=-1),\n    default_args=default_args,\n)",
+        "detail": "dags.data_pipeline_dag",
+        "documentation": {}
+    },
+    {
+        "label": "conf",
+        "kind": 5,
+        "importPath": "dags.data_pipeline_dag",
+        "description": "dags.data_pipeline_dag",
+        "peekOfCode": "conf = load_config()\n@dag(\n    dag_id=f\"{os.path.basename(Path(__file__).parent)}_data_pipeline_dag\",\n    description=\"Fetches stock & weather data, transforms, and loads to SQLite\",\n    schedule=None,  # or use a CRON or preset like '@daily'\n    max_active_runs=1,\n    start_date=pendulum.today(\"UTC\").add(days=-1),\n    default_args=default_args,\n)\ndef data_pipeline_dag():",
+        "detail": "dags.data_pipeline_dag",
+        "documentation": {}
+    },
+    {
+        "label": "data_pipeline_dag",
+        "kind": 5,
+        "importPath": "dags.data_pipeline_dag",
+        "description": "dags.data_pipeline_dag",
+        "peekOfCode": "data_pipeline_dag = data_pipeline_dag()",
+        "detail": "dags.data_pipeline_dag",
+        "documentation": {}
+    }
+]

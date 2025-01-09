@@ -1,0 +1,11 @@
+{
+    "STOCK_API_KEY": "NKP3BCLKS9W1GL6K",
+    "WEATHER_API_KEY": "3330ae6fb0dd4039809102536241912",
+    "STOCK_BASE_URL": "https://www.alphavantage.co/query",
+    "FUNCTION": "TIME_SERIES_DAILY",
+    "SYMBOL": "TSCO.LON",
+    "OUTPUTSIZE": "full",
+    "WEATHER_BASE_URL": "https://api.weatherapi.com/v1/history.json",
+    "LOCATION": "London",
+    "DB_NAME": "thoughtspot_data.db"
+}
